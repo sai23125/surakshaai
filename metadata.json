@@ -1,0 +1,6 @@
+{
+  "name": "SurakshaAI",
+  "description": "Hyperlocal disaster safety platform providing verified IMD & NDMA alerts, risk maps, emergency SOS, and civic response coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
